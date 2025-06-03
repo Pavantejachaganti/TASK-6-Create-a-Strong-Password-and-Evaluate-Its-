@@ -47,15 +47,16 @@ Step 2: Check Password Strength
 Step 3: Identify Best Practices
 
 From the evaluation:
-     Length matters: Longer passwords are significantly stronger.
 
-  Diversity of characters: Mix uppercase, lowercase, numbers, and symbols.
+1. Length matters: Longer passwords are significantly stronger.
 
-Avoid common words and patterns: Passwords like 123456 or QwErTy are easily cracked.
+2. Diversity of characters: Mix uppercase, lowercase, numbers, and symbols.
 
-Passphrases: Structured phrases with complexity work very well.
+3. Avoid common words and patterns: Passwords like 123456 or QwErTy are easily cracked.
 
-Randomness is key: Avoid using birthdays, names, or predictable patterns.
+4. Passphrases: Structured phrases with complexity work very well.
+
+5. Randomness is key: Avoid using birthdays, names, or predictable patterns.
 
 
 
@@ -87,35 +88,29 @@ Step 4: Password Creation Tips Learned
 
 Step 5: Common Password Attack Methods
 
-Brute Force: Tries all possible combinations.
+1. Brute Force: Tries all possible combinations.
 
-Defense: Long, complex passwords exponentially increase time needed.
-
-
-Dictionary Attacks: Uses a list of common words and phrases.
-
-Defense: Avoid using dictionary words or predictable variations.
+2. Defense: Long, complex passwords exponentially increase time needed.
 
 
-Credential Stuffing: Uses leaked username/password combinations.
+3. Dictionary Attacks: Uses a list of common words and phrases.
 
-Defense: Use unique passwords for each account.
-
-
-Phishing: Tricks you into entering credentials on fake sites.
-
-Defense: Enable 2FA, verify URLs, and stay alert.
+4. Defense: Avoid using dictionary words or predictable variations.
 
 
+5. Credential Stuffing: Uses leaked username/password combinations.
+
+6. Defense: Use unique passwords for each account.
 
 
----
+7. Phishing: Tricks you into entering credentials on fake sites.
+
+8. Defense: Enable 2FA, verify URLs, and stay alert.
+
+
 
 Step 6: How Complexity Affects Security
 
 Password complexity directly increases resistance to both brute-force and dictionary attacks. A short or simple password can be cracked in seconds, while a long, randomized one could take centuries. The combination of high entropy, varied character sets, and length makes a password secure by making it computationally expensive and practically infeasible to crack.
 
 
----
-
-Would you like a downloadable version of this in PDF or Word format?
